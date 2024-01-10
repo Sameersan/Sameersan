@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning and training autonomous machines 
 - 🌱 I’m currently learning to implement few methods and algorithms existing .
 - 💞️ I’m looking to collaborate on cyberphysical systems 
-- 📫 How to reach me : sathysameer@gmail.com
+- 📫 How to reach me : sathyasameer@gmail.com
 - 😄 Pronouns: ...Mr. strictly 😅
 - ⚡ Fun fact: ... lot of brain drain
 
